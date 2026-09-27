@@ -15,4 +15,3 @@ namespace RustPlusDesk.Models;
         uint? EntityId,
         string Message
     );
-
