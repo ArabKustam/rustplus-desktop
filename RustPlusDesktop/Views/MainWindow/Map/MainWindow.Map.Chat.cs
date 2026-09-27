@@ -418,4 +418,4 @@ public partial class MainWindow
             await SendChatInputAsync();
         }
     }
-}
+} 
