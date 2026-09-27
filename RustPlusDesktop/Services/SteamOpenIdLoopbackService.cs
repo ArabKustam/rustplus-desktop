@@ -65,4 +65,4 @@ public class SteamOpenIdLoopbackService
         return sid;
     }
 }
-// sync: update state checkpoint
+// debug: validation checkpoint
