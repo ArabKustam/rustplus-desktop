@@ -604,3 +604,4 @@ public partial class MainWindow
     private static string FallbackHtml() =>
         "<html><body style='background:#16181c;color:#fff;padding:20px'>ShopSearch.html not found.</body></html>";
 }
+
