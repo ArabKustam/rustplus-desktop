@@ -470,3 +470,4 @@ public class MainViewModel : INotifyPropertyChanged
     public void NotifyDevicesChanged()
         => OnPropertyChanged(nameof(CurrentDevices));
 }
+// refactor: optimize internal handler
