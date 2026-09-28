@@ -179,4 +179,3 @@ namespace RustPlusDesk.Services
         }
     }
 }
-// perf: small loop optimization
