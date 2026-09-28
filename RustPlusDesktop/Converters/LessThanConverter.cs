@@ -24,4 +24,3 @@ public class LessThanConverter : IValueConverter
         throw new NotImplementedException();
     }
 }
-// todo: review edge cases
