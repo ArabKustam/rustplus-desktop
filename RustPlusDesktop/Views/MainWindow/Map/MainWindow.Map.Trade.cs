@@ -1988,4 +1988,4 @@ public partial class MainWindow
 
     private ListBox? _analysisList;             // Ergebnisse der Analyse
 }
-
+ 
