@@ -25,3 +25,4 @@ public interface IPairingListener
     // NEU: optional – Standard fällt auf normalen Start zurück
     Task StartAsyncUsingEdge(CancellationToken ct = default) => StartAsync(ct);
 }
+
