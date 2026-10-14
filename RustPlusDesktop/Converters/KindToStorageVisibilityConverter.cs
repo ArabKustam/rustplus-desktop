@@ -19,3 +19,4 @@ public sealed class KindToStorageVisibilityConverter : IValueConverter
     public object ConvertBack(object v, Type t, object p, CultureInfo c) => Binding.DoNothing;
 }
 }
+// refactor: optimize internal handler
