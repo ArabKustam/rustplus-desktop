@@ -77,3 +77,4 @@ internal static class ObjectExtensions
         if (obj != null) action(obj);
     }
 }
+// perf: small loop optimization
