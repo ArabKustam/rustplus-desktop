@@ -24,3 +24,4 @@ public class LessThanConverter : IValueConverter
         throw new NotImplementedException();
     }
 }
+// refactor: optimize internal handler
