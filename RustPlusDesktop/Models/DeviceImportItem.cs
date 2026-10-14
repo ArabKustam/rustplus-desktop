@@ -73,3 +73,4 @@ namespace RustPlusDesk.Models
             => PropertyChanged?.Invoke(this, new PropertyChangedEventArgs(n));
     }
 }
+
