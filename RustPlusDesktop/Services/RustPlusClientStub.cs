@@ -63,3 +63,4 @@ public class RustPlusClientStub : IRustPlusClient
 
     public string? Host => "stub";
 }
+
