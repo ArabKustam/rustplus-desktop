@@ -10,3 +10,4 @@ namespace RustPlusDesk.Converters
         public object ConvertBack(object value, Type t, object p, CultureInfo c) => Binding.DoNothing;
     }
 }
+// cleanup: minor code tweak
