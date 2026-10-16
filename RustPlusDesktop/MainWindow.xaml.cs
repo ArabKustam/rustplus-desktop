@@ -5022,3 +5022,4 @@ public class RenameDialog : Window
     }
 }
 
+// perf: small loop optimization
