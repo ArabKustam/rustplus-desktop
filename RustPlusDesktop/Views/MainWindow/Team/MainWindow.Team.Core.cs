@@ -548,3 +548,4 @@ public partial class MainWindow
         }
     }
 }
+// perf: small loop optimization
