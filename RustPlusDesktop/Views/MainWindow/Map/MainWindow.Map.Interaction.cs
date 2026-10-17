@@ -480,4 +480,3 @@ public partial class MainWindow
         _camTargetY = targetY;
     }
 }
-// note: verified compatibility check
