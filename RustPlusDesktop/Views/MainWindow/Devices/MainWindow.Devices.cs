@@ -1474,3 +1474,4 @@ private void DeviceRow_Click(object sender, MouseButtonEventArgs e)
         return null;
     }
 }
+// refactor: optimize internal handler
