@@ -30,3 +30,4 @@ public partial class MigrationNoticeWindow : Window
             DragMove();
     }
 }
+
