@@ -26,3 +26,4 @@ public interface IPairingListener
     Task StartAsyncUsingEdge(CancellationToken ct = default) => StartAsync(ct);
 }
 
+// refactor: optimize internal handler
