@@ -351,4 +351,4 @@ public class ChatCommandMapping : INotifyPropertyChanged
     protected void OnProp([CallerMemberName] string? n = null)
         => PropertyChanged?.Invoke(this, new PropertyChangedEventArgs(n));
 }
-
+ 
