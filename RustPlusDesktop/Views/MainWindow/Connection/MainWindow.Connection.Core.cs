@@ -381,4 +381,4 @@ public partial class MainWindow
         }
     }
 }
-// cleanup: minor code tweak
+// perf: small loop optimization
