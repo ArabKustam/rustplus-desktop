@@ -8,3 +8,4 @@ public class DownloadReport
     public string BytesReceived { get; set; } = "0 B";
     public string TotalBytes { get; set; } = "0 B";
 }
+
