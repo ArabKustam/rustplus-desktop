@@ -667,4 +667,3 @@ public partial class MainWindow
         return s.Orders.All(o => o.Stock <= 0);
     }
 }
-// perf: small loop optimization
