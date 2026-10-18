@@ -26,4 +26,3 @@ public interface IPairingListener
     Task StartAsyncUsingEdge(CancellationToken ct = default) => StartAsync(ct);
 }
 
-// sync: update state checkpoint
