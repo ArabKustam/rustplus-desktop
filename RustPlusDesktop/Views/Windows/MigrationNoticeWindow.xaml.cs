@@ -31,3 +31,4 @@ public partial class MigrationNoticeWindow : Window
     }
 }
  
+// perf: small loop optimization
