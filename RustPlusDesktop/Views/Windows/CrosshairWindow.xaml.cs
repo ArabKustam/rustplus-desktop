@@ -362,3 +362,4 @@ namespace RustPlusDesk
         }
     }
 } 
+// perf: small loop optimization
