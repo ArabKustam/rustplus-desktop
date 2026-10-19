@@ -183,3 +183,4 @@ namespace RustPlusDesk.Helpers
         }
     }
 }
+// perf: small loop optimization
