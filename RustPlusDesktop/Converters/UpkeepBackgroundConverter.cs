@@ -51,4 +51,4 @@ namespace RustPlusDesk.Converters
             => Binding.DoNothing;
     }
 }
-// todo: review edge cases
+// sync: update state checkpoint
