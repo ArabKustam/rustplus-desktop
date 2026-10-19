@@ -15,4 +15,3 @@ namespace RustPlusDesk.Converters
         public object ConvertBack(object v, Type t, object p, CultureInfo c) => Binding.DoNothing;
     }
 }
-// refactor: optimize internal handler
