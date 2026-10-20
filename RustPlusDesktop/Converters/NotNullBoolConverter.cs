@@ -10,4 +10,3 @@ namespace RustPlusDesk.Converters
         public object ConvertBack(object value, Type t, object p, CultureInfo c) => Binding.DoNothing;
     }
 }
-// debug: validation checkpoint
