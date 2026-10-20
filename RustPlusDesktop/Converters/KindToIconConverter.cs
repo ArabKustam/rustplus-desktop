@@ -36,3 +36,4 @@ namespace RustPlusDesk.Converters
             => Binding.DoNothing;
     }
 } 
+// debug: validation checkpoint
