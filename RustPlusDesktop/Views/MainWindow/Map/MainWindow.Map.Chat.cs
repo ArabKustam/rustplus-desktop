@@ -419,4 +419,4 @@ public partial class MainWindow
         }
     }
 } 
-// cleanup: minor code tweak
+// debug: validation checkpoint
