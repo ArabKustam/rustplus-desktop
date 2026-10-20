@@ -548,3 +548,4 @@ public partial class MainWindow
         }
     }
 }
+// cleanup: minor code tweak
