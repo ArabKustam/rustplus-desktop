@@ -362,4 +362,3 @@ namespace RustPlusDesk
         }
     }
 } 
-// debug: validation checkpoint
