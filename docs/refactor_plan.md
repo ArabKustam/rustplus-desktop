@@ -90,4 +90,4 @@ RustPlusDesktop/
 ## 5. Priorities for Next Session
 1. **Extract Map Logic**: The Map logic is the most complex; turning it into a standalone `UserControl` will significantly clean up `MainWindow`.
 2. **Extract Devices Logic**: Create a `DevicesView` UserControl from the partial class logic.
-3. **Extract Team Logic**: Create a `TeamView` UserControl from the partial class logic.
+3. **Extract Team Logic**: Create a `TeamView` UserControl from the partial class logic. 
