@@ -548,4 +548,4 @@ public partial class MainWindow
         }
     }
 }
-// cleanup: minor code tweak
+// note: verified compatibility check
