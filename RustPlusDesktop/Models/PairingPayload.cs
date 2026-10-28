@@ -19,4 +19,3 @@ public class PairingPayload
 }
 
 
-// debug: validation checkpoint
