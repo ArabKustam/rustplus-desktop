@@ -73,4 +73,4 @@ public static class StorageService
     }
 }
 
-public record MiniMapSettings(int ShapeIndex, double Size, double Opacity, bool ShowTime);
+public record MiniMapSettings(int ShapeIndex, double Size, double Opacity, bool ShowTime); 
