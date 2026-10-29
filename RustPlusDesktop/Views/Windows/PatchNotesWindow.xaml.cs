@@ -34,3 +34,4 @@ namespace RustPlusDesk.Views
         }
     }
 }
+// refactor: optimize internal handler
