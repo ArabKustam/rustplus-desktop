@@ -89,4 +89,4 @@ public partial class MainWindow
         RedrawGrid();
     }
 }
-// sync: update state checkpoint
+// cleanup: minor code tweak
