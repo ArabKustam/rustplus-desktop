@@ -381,4 +381,4 @@ public partial class MainWindow
         }
     }
 }
-// debug: validation checkpoint
+// sync: update state checkpoint
