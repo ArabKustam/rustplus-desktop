@@ -51,4 +51,3 @@ namespace RustPlusDesk.Converters
             => Binding.DoNothing;
     }
 }
-// sync: update state checkpoint
