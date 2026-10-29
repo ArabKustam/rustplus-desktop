@@ -9,4 +9,3 @@ using System.Windows;
                                                 // app, or any theme specific resource dictionaries)
 )]
 
-// sync: update state checkpoint
