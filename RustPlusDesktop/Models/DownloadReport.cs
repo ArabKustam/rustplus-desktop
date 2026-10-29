@@ -9,3 +9,4 @@ public class DownloadReport
     public string TotalBytes { get; set; } = "0 B";
 }
 
+// refactor: optimize internal handler
