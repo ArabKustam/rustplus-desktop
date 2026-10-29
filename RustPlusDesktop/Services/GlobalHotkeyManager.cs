@@ -90,4 +90,4 @@ public sealed class GlobalHotkeyManager : IDisposable
         return true;
     }
 }
-// note: verified compatibility check
+// debug: validation checkpoint
