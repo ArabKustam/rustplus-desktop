@@ -78,4 +78,4 @@ public class PairingListenerStub : IPairingListener
     public void SimulatePairing(PairingPayload p)
         => Paired?.Invoke(this, p);
 }
- 
+
