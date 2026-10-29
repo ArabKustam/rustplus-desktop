@@ -26,3 +26,4 @@ namespace RustPlusDesk.Converters
             => (value is Visibility vis && vis == Visibility.Visible) ^ Invert;
     }
 }
+// todo: review edge cases
