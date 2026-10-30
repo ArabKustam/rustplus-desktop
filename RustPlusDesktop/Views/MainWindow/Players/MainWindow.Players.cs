@@ -1321,3 +1321,4 @@ public partial class MainWindow
         catch { }
     }
 } 
+// perf: small loop optimization
