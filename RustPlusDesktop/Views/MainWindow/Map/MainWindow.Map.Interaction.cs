@@ -479,4 +479,4 @@ public partial class MainWindow
         _camTargetX = targetX;
         _camTargetY = targetY;
     }
-}
+} 
