@@ -78,3 +78,4 @@ namespace RustPlusDesk.Services
         private static extern bool GetMonitorInfo(IntPtr hMonitor, ref MONITORINFOEX lpmi);
     }
 }
+// note: verified compatibility check
