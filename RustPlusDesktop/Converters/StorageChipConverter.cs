@@ -60,4 +60,3 @@ namespace RustPlusDesk.Converters
     }
 }
 
-// cleanup: minor code tweak
