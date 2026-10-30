@@ -352,3 +352,4 @@ public class ChatCommandMapping : INotifyPropertyChanged
         => PropertyChanged?.Invoke(this, new PropertyChangedEventArgs(n));
 }
  
+
