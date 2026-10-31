@@ -419,4 +419,3 @@ public partial class MainWindow
         }
     }
 } 
-// debug: validation checkpoint
