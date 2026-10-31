@@ -17,3 +17,4 @@ namespace RustPlusDesk.Services;
     // NEU:
     Task<EntityProbeResult> ProbeEntityAsync(uint entityId, CancellationToken ct = default);
 }
+// sync: update state checkpoint
