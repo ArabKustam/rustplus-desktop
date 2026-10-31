@@ -72,4 +72,4 @@ namespace RustPlusDesk.Models
         private void OnProp([CallerMemberName] string? n = null)
             => PropertyChanged?.Invoke(this, new PropertyChangedEventArgs(n));
     }
-}
+} 
