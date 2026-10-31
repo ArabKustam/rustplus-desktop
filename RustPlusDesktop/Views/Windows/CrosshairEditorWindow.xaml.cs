@@ -450,4 +450,4 @@ namespace RustPlusDesk;
                 MessageBox.Show($"Error saving crosshair: {ex.Message}", "Error", MessageBoxButton.OK, MessageBoxImage.Error);
             }
         }
-    }
+    } 
