@@ -36,4 +36,4 @@ public class SteamLoginService
         steamId64 = claimed[(lastSlash + 1)..];
         return true;
     }
-}
+} 
