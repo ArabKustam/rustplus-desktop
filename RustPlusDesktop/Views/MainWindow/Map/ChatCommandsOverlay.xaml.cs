@@ -17,4 +17,3 @@ public partial class ChatCommandsOverlay : UserControl
         CloseRequested?.Invoke(this, e);
     }
 } 
-
