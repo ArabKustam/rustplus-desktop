@@ -49,3 +49,4 @@ namespace RustPlusDesk.Views
         private void BtnClose_Click(object sender, RoutedEventArgs e) => Close();
     }
 }
+
