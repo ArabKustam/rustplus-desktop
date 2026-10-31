@@ -205,4 +205,4 @@ public partial class MainWindow
             _isReconnecting = false;
         }
     }
-}
+} 
