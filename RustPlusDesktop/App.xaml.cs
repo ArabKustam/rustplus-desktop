@@ -230,4 +230,4 @@ public partial class App : Application
         }
     }
 } 
-// cleanup: minor code tweak
+// debug: validation checkpoint
