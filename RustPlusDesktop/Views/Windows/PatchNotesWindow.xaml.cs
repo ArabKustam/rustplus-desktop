@@ -34,4 +34,4 @@ namespace RustPlusDesk.Views
         }
     }
 }
-// refactor: optimize internal handler
+// note: verified compatibility check
