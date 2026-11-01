@@ -281,4 +281,4 @@ public class SmartDevice : INotifyPropertyChanged
     private void OnProp([CallerMemberName] string? n = null)
         => PropertyChanged?.Invoke(this, new PropertyChangedEventArgs(n));
 }
-// cleanup: minor code tweak
+// perf: small loop optimization
