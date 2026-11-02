@@ -381,4 +381,4 @@ public partial class MainWindow
         }
     }
 }
-// sync: update state checkpoint
+// todo: review edge cases
