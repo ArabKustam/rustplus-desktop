@@ -1474,4 +1474,3 @@ private void DeviceRow_Click(object sender, MouseButtonEventArgs e)
         return null;
     }
 }
-// sync: update state checkpoint
