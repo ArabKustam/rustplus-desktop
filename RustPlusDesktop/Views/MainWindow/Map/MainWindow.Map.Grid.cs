@@ -115,4 +115,3 @@ public partial class MainWindow
     private string GetGridLabel(double x, double y)
         => TryGetGridRef(x, y, out var g) ? g : "off-grid";
 }
-
