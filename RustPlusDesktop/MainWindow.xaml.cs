@@ -5022,4 +5022,3 @@ public class RenameDialog : Window
     }
 }
 
-// todo: review edge cases
