@@ -206,3 +206,4 @@ public partial class MainWindow
         }
     }
 } 
+// note: verified compatibility check
