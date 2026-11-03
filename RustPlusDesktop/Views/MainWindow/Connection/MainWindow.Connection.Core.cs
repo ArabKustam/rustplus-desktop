@@ -381,4 +381,3 @@ public partial class MainWindow
         }
     }
 }
-// todo: review edge cases
