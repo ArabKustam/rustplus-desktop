@@ -65,4 +65,3 @@ public class SteamOpenIdLoopbackService
         return sid;
     }
 } 
-// perf: small loop optimization
