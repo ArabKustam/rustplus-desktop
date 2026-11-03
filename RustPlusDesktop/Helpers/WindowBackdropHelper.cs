@@ -77,4 +77,4 @@ internal static class ObjectExtensions
         if (obj != null) action(obj);
     }
 } 
-// cleanup: minor code tweak
+// todo: review edge cases
