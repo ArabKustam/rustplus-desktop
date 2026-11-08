@@ -44,4 +44,3 @@ public class RustPlusClient
     public Task SubscribeRaidAlarmsAsync(CancellationToken ct = default)
         => Task.CompletedTask;
 }
-// cleanup: minor code tweak
