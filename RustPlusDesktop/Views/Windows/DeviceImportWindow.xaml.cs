@@ -180,4 +180,3 @@ namespace RustPlusDesk.Views
 
 }
 
-// perf: small loop optimization
