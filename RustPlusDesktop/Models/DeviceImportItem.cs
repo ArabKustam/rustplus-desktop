@@ -73,4 +73,3 @@ namespace RustPlusDesk.Models
             => PropertyChanged?.Invoke(this, new PropertyChangedEventArgs(n));
     }
 } 
-// perf: small loop optimization
