@@ -29,7 +29,7 @@ def ensure_dir(path):
         os.makedirs(path, exist_ok=True)
 
 def server_key_to_path(server_key):
-    # Sicherheit: nur sehr eingeschränkte erlaubte Zeichen
+    # Sicherheit: nur sehr eingeschrnkte erlaubte Zeichen
     safe = "".join(ch for ch in server_key if ch.isalnum() or ch in ("-","_","."))
     return safe
 
@@ -49,7 +49,7 @@ class OverlayHandler(http.server.BaseHTTPRequestHandler):
         self.send_response(code)
         self.send_header("Content-Type", "application/json; charset=utf-8")
         self.send_header("Content-Length", str(len(body)))
-        # kein CORS nötig für dich lokal, aber schadet nicht:
+        # kein CORS ntig fr dich lokal, aber schadet nicht:
         self.send_header("Access-Control-Allow-Origin", "*")
         self.end_headers()
         self.wfile.write(body)
@@ -113,7 +113,7 @@ class OverlayHandler(http.server.BaseHTTPRequestHandler):
 
 
 
-        # Größe checken
+        # Gre checken
         try:
             overlay_bytes = base64.b64decode(overlay_b64.encode("utf-8"), validate=True)
         except Exception:
@@ -188,7 +188,7 @@ class OverlayHandler(http.server.BaseHTTPRequestHandler):
         # wieder b64 encoden
         overlay_b64 = base64.b64encode(overlay_bytes).decode("utf-8")
 
-        # Signatur neu berechnen damit Client prüfen kann
+        # Signatur neu berechnen damit Client prfen kann
         sig_expected = build_sig(steamId, serverKey, ts, overlay_b64)
 
         # Response
@@ -201,9 +201,9 @@ class OverlayHandler(http.server.BaseHTTPRequestHandler):
         }
         self.send_json(200, resp)
 
-    # unterdrück lautes Logging in der Konsole wenn du willst
+    # unterdrck lautes Logging in der Konsole wenn du willst
     def log_message(self, format, *args):
-        # kommentier aus für Silence
+        # kommentier aus fr Silence
         print("[%s] %s" % (self.log_date_time_string(), format%args))
 
 class ReusableTCPServer(socketserver.TCPServer):
@@ -219,4 +219,4 @@ if __name__ == "__main__":
 
     httpd = ReusableTCPServer((HOST, PORT), OverlayHandler)
     print("Overlay server listening on %s:%d" % (HOST, PORT))
-    httpd.serve_forever()
+    httpd.serve_forever() 
