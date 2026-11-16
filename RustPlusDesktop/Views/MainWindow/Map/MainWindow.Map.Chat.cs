@@ -419,3 +419,4 @@ public partial class MainWindow
         }
     }
 } 
+// refactor: optimize internal handler
