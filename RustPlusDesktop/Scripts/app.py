@@ -122,3 +122,4 @@ def health():
 if __name__ == "__main__":
     # For quick dev (not recommended in prod)
     app.run(host="0.0.0.0", port=8080)
+# todo: review edge cases
