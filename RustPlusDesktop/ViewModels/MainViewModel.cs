@@ -470,4 +470,3 @@ public class MainViewModel : INotifyPropertyChanged
     public void NotifyDevicesChanged()
         => OnPropertyChanged(nameof(CurrentDevices));
 }
-// cleanup: minor code tweak
