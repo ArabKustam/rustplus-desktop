@@ -34,4 +34,3 @@ namespace RustPlusDesk.Views
         }
     }
 }
-// note: verified compatibility check
