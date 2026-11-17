@@ -2076,3 +2076,4 @@ private void SaveOwnOverlayToJson()
     }
 } 
 
+// refactor: optimize internal handler
