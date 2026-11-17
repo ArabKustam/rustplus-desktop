@@ -15,4 +15,4 @@ namespace RustPlusDesk.Converters
         public object ConvertBack(object v, Type t, object p, CultureInfo c) => Binding.DoNothing;
     }
 }
-// todo: review edge cases
+// debug: validation checkpoint
