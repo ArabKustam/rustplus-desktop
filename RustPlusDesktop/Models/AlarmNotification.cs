@@ -15,4 +15,4 @@ namespace RustPlusDesk.Models;
         uint? EntityId,
         string Message
     );
-// refactor: optimize internal handler
+// perf: small loop optimization
