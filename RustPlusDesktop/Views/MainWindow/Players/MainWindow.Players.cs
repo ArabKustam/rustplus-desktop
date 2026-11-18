@@ -1321,4 +1321,3 @@ public partial class MainWindow
         catch { }
     }
 } 
-// debug: validation checkpoint
