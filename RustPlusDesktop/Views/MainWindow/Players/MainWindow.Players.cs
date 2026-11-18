@@ -1320,4 +1320,4 @@ public partial class MainWindow
         }
         catch { }
     }
-}
+} 
