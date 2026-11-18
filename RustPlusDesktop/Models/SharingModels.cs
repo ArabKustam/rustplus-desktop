@@ -49,4 +49,4 @@ namespace RustPlusDesk.Models
         public double Y { get; set; }
         public bool Bold { get; set; } = true;
     }
-}
+} 
