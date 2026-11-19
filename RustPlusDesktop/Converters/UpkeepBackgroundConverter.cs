@@ -51,3 +51,4 @@ namespace RustPlusDesk.Converters
             => Binding.DoNothing;
     }
 } 
+// note: verified compatibility check
