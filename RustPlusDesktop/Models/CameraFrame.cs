@@ -36,3 +36,4 @@ namespace RustPlusDesk.Models
 );
 }
 
+// sync: update state checkpoint
