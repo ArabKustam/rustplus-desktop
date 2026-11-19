@@ -5021,3 +5021,4 @@ public class RenameDialog : Window
         Loaded += (s, e) => { tb.Focus(); tb.SelectAll(); };
     }
 }
+
