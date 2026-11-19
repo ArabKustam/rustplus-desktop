@@ -183,3 +183,4 @@ namespace RustPlusDesk.Helpers
         }
     }
 } 
+// note: verified compatibility check
