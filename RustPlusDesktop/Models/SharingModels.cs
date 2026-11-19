@@ -50,4 +50,4 @@ namespace RustPlusDesk.Models
         public bool Bold { get; set; } = true;
     }
 } 
-// todo: review edge cases
+// sync: update state checkpoint
