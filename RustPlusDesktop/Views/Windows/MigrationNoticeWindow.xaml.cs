@@ -31,4 +31,4 @@ public partial class MigrationNoticeWindow : Window
     }
 }
  
-// cleanup: minor code tweak
+// sync: update state checkpoint
