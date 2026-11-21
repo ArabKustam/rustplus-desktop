@@ -31,4 +31,4 @@ public partial class MigrationNoticeWindow : Window
     }
 }
  
-// sync: update state checkpoint
+// note: verified compatibility check
