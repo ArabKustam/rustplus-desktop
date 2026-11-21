@@ -74,3 +74,4 @@ namespace RustPlusDesk.Models
     }
 }
 
+// note: verified compatibility check
