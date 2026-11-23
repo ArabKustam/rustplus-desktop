@@ -375,4 +375,3 @@ public static class HowToTrackWindow
         return border;
     }
 }
-// cleanup: minor code tweak
