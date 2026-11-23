@@ -374,4 +374,4 @@ public static class HowToTrackWindow
         Grid.SetColumn(border, col);
         return border;
     }
-}
+} 
