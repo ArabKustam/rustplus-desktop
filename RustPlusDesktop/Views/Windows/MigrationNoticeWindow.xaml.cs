@@ -31,4 +31,3 @@ public partial class MigrationNoticeWindow : Window
     }
 }
  
-// note: verified compatibility check
