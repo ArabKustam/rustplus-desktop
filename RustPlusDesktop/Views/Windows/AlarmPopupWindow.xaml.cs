@@ -48,4 +48,4 @@ namespace RustPlusDesk.Views
         private void BtnClear_Click(object sender, RoutedEventArgs e) => _items.Clear();
         private void BtnClose_Click(object sender, RoutedEventArgs e) => Close();
     }
-}
+} 
