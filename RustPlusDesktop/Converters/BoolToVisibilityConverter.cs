@@ -25,4 +25,4 @@ namespace RustPlusDesk.Converters
         public object ConvertBack(object value, Type targetType, object parameter, CultureInfo culture)
             => (value is Visibility vis && vis == Visibility.Visible) ^ Invert;
     }
-}
+} 
